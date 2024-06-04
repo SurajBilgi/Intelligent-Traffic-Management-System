@@ -1,6 +1,4 @@
-To indicate that the project is under a Non-Disclosure Agreement (NDA), you can add a section in the README file specifying the confidentiality terms. Here’s how you can integrate it into your existing README file:
 
----
 
 # Intelligent Traffic Management System (ITMS)
 
