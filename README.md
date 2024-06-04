@@ -1,7 +1,4 @@
-# Intelligent-Traffic-Management-System
-
-
-Sure! Here is a detailed README file for your Intelligent Traffic Management System (ITMS) project:
+To indicate that the project is under a Non-Disclosure Agreement (NDA), you can add a section in the README file specifying the confidentiality terms. Here’s how you can integrate it into your existing README file:
 
 ---
 
@@ -20,6 +17,7 @@ The Intelligent Traffic Management System (ITMS) is a state-of-the-art solution 
 7. [Contribution](#contribution)
 8. [License](#license)
 9. [Contact](#contact)
+10. [Confidentiality](#confidentiality)
 
 ## Project Description
 The ITMS project was undertaken as a part of a state government initiative to improve traffic safety and enforcement efficiency. As the team lead, I spearheaded the development and implementation of the system, which leverages advanced analytics and edge computing to detect traffic violations and provide real-time data to traffic police.
@@ -112,13 +110,7 @@ The ITMS project was undertaken as a part of a state government initiative to im
   }
   ```
 
-## Contribution
-We welcome contributions from the community. Please follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes.
-4. Push to the branch.
-5. Create a pull request.
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -129,6 +121,9 @@ For any queries or support, please contact:
 - **Email**: [your.email@example.com]
 - **GitHub**: [https://github.com/your-github-profile](https://github.com/your-github-profile)
 
+## Confidentiality
+This project is covered under a Non-Disclosure Agreement (NDA). All information, data, and intellectual property associated with the ITMS project are confidential and proprietary. Unauthorized disclosure, distribution, or reproduction of any part of this project is strictly prohibited. Please contact the project lead for further information regarding confidentiality terms and conditions.
+
 ---
 
-Feel free to customize this README file further as per your specific project requirements and details.
+Feel free to customize the confidentiality section as per your specific NDA requirements.
