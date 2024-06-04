@@ -117,9 +117,9 @@ This project is licensed under the Apache-2.0 license.
 
 ## Contact
 For any queries or support, please contact:
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [https://github.com/your-github-profile](https://github.com/your-github-profile)
+- **Name**: Suraj S Bilgi
+- **Email**: Surajbilgi9797@gmail.com
+- **GitHub**: [https://github.com/SurajBilgi](https://github.com/SurajBilgi)
 
 ## Confidentiality
 This project is covered under a Non-Disclosure Agreement (NDA). All information, data, and intellectual property associated with the ITMS project are confidential and proprietary. Unauthorized disclosure, distribution, or reproduction of any part of this project is strictly prohibited. Please contact the project lead for further information regarding confidentiality terms and conditions.
