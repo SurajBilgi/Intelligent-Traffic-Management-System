@@ -126,4 +126,3 @@ This project is covered under a Non-Disclosure Agreement (NDA). All information,
 
 ---
 
-Feel free to customize the confidentiality section as per your specific NDA requirements.
