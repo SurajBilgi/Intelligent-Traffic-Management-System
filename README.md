@@ -113,7 +113,7 @@ The ITMS project was undertaken as a part of a state government initiative to im
 
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 license.
 
 ## Contact
 For any queries or support, please contact:
